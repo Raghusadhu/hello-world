@@ -56,7 +56,7 @@ Email:
 Password:  
 <input type="Password" id="pass" name="pass"> <br>   
 <br> <br>  
-Re-type 123 password ansible done added new line test new line:  
+Re-type 12345pr password ansible done added new line test new line:  
 <input type="Password" id="repass" name="repass"> <br> <br>  
 <input type="button" value="Submit"/>  
 </form>  
